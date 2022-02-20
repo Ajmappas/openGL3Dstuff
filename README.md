@@ -1,10 +1,10 @@
 # openGL3Dstuff
-openGL3 3d stuff made with help from https://learnopengl.com/
+openGL3 3d stuff made with help from https://learnopengl.com/<br />
 Dev: me
 
-#LIBRARIES: 
-  Assimp\n
-  glad\n
-  glfw\n
-  glm\n
+# LIBRARIES: 
+  Assimp
+  glad
+  glfw
+  glm
   stb_image
